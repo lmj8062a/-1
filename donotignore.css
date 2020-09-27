@@ -1,0 +1,106 @@
+BODY
+{
+    BACKGROUND: #D5D5D5;
+    MARGIN: 0px
+}
+
+
+.login
+{
+    MARGIN-BOTTOM: -10px;
+    TEXT-ALIGN: center;
+    MARGIN-TOP: 20px
+}
+:unknown
+{
+    FONT-SIZE: 13px;
+    COLOR: #d6d9ee
+}
+TEXTAREA:unknown
+{
+    FONT-SIZE: 13px;
+    COLOR: #d6d9ee
+}
+INPUT:unknown
+{
+    FONT-SIZE: 13px;
+    COLOR: #000
+}
+
+
+
+.login_btn
+{
+    FONT-SIZE: 15px;
+    BORDER-TOP: 0px;
+    HEIGHT: 120px;
+    FONT-FAMILY: 'NN';
+    BORDER-RIGHT: 0px;
+    WIDTH: 120px;
+    BACKGROUND-IMAGE: none;
+    BACKGROUND-REPEAT: repeat;
+    BORDER-BOTTOM: 0px;
+    COLOR: #7956cb;
+    TEXT-ALIGN: center;
+    BORDER-LEFT: 0px;
+    MARGIN-TOP: 10px;
+    LINE-HEIGHT: 23px;
+    BACKGROUND-COLOR: #CFFF24;
+    border-radius: 10px
+}
+.login1_btn
+{
+    FONT-SIZE: 15px;
+    BORDER-TOP: 0px;
+    HEIGHT: 35px;
+    FONT-FAMILY: 'NN';
+    BORDER-RIGHT: 0px;
+    WIDTH: 270px;
+    BACKGROUND-IMAGE: none;
+    BACKGROUND-REPEAT: repeat;
+    BORDER-BOTTOM: 0px;
+    COLOR: #7956cb;
+    TEXT-ALIGN: center;
+    BORDER-LEFT: 0px;
+    MARGIN-TOP: 10px;
+    LINE-HEIGHT: 23px;
+    BACKGROUND-COLOR: white;
+    border-radius: 10px
+}
+
+.talte1_btn
+{
+    FONT-SIZE: 15px;
+    BORDER-TOP: 0px;
+    HEIGHT: 120px;
+    FONT-FAMILY: 'NN';
+    BORDER-RIGHT: 0px;
+    WIDTH: 120px;
+    BACKGROUND-IMAGE: none;
+    BACKGROUND-REPEAT: repeat;
+    BORDER-BOTTOM: 0px;
+    COLOR: orange;
+    TEXT-ALIGN: center;
+    BORDER-LEFT: 0px;
+    MARGIN-TOP: 10px;
+    LINE-HEIGHT: 23px;
+    BACKGROUND-COLOR: blue;
+    border-radius: 10px
+}
+
+.namecan
+{
+    FONT-SIZE: 14px;
+    BORDER-TOP: #FAED7D 1px solid;
+    HEIGHT: 35px;
+    FONT-FAMILY: 'NN';
+    BORDER-RIGHT: #FAED7D 1px solid;
+    WIDTH: 270px;
+    BACKGROUND: #FAED7D no-repeat;
+    BORDER-BOTTOM: #FAED7D 1px solid;
+    COLOR: #000;
+    PADDING-LEFT: 5px;
+    BORDER-LEFT: #FAED7D 1px solid;
+    MARGIN-TOP: 5px;
+    border-radius: 10px
+}
